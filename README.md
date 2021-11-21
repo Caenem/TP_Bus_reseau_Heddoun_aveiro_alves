@@ -1,6 +1,6 @@
 # TP_Bus_reseau_Heddoun_aveiro_alves
 
-PINOUT :
+PINOUT:
 CAN1
 PB9 -> CAN1_TX
 PB8 -> CAN1_RX
